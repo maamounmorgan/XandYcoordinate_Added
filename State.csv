@@ -1,0 +1,178 @@
+Id,State,X_Coordinate,Y_Coordinate
+1,Pickup Location,?,?
+2,Palam Vihar,?,?
+3,Shastri Nagar,?,?
+4,Khandsa,?,?
+5,Central Secretariat,?,?
+6,Ghitorni Village,?,?
+7,AIIMS,?,?
+8,Vaishali,?,?
+9,Mayur Vihar,?,?
+10,Noida Sector 62,?,?
+11,Rohini,?,?
+12,Udyog Bhawan,?,?
+13,Vidhan Sabha,?,?
+14,Patel Chowk,?,?
+15,Malviya Nagar,?,?
+16,Madipur,?,?
+17,Jama Masjid,?,?
+18,IGI Airport,?,?
+19,Vinobapuri,?,?
+20,Kashmere Gate,?,?
+21,Pitampura,?,?
+22,Punjabi Bagh,?,?
+23,Greater Noida,?,?
+24,Tis Hazari,?,?
+25,Noida Sector 18,?,?
+26,Kanhaiya Nagar,?,?
+27,Okhla,?,?
+28,Cyber Hub,?,?
+29,Sadar Bazar Gurgaon,?,?
+30,Shastri Park,?,?
+31,Faridabad Sector 15,?,?
+32,Qutub Minar,?,?
+33,Mundka,?,?
+34,DLF City Court,?,?
+35,New Colony,?,?
+36,Nirman Vihar,?,?
+37,New Delhi Railway Station,?,?
+38,Civil Lines Gurgaon,?,?
+39,Seelampur,?,?
+40,Noida Extension,?,?
+41,Adarsh Nagar,?,?
+42,Panipat,?,?
+43,Karol Bagh,?,?
+44,Sultanpur,?,?
+45,Moti Nagar,?,?
+46,Dilshad Garden,?,?
+47,Aya Nagar,?,?
+48,Rajiv Chowk,?,?
+49,MG Road,?,?
+50,Jasola,?,?
+51,Ardee City,?,?
+52,Meerut,?,?
+53,Anand Vihar ISBT,?,?
+54,Lajpat Nagar,?,?
+55,Tughlakabad,?,?
+56,Karkarduma,?,?
+57,Dwarka Mor,?,?
+58,Anand Vihar,?,?
+59,Uttam Nagar,?,?
+60,Model Town,?,?
+61,Mandi House,?,?
+62,Ghitorni,?,?
+63,Rajiv Nagar,?,?
+64,Sohna Road,?,?
+65,Bahadurgarh,?,?
+66,Moolchand,?,?
+67,INA Market,?,?
+68,Sushant Lok,?,?
+69,IIT Delhi,?,?
+70,Satguru Ram Singh Marg,?,?
+71,Munirka,?,?
+72,IGNOU Road,?,?
+73,Akshardham,?,?
+74,Chhatarpur,?,?
+75,IMT Manesar,?,?
+76,Azadpur,?,?
+77,Jhilmil,?,?
+78,Sikanderpur,?,?
+79,Rohini West,?,?
+80,Kashmere Gate ISBT,?,?
+81,Kherki Daula Toll,?,?
+82,IFFCO Chowk,?,?
+83,Hauz Rani,?,?
+84,Sarai Kale Khan,?,?
+85,Vishwavidyalaya,?,?
+86,Maidan Garhi,?,?
+87,Yamuna Bank,?,?
+88,Khan Market,?,?
+89,Pragati Maidan,?,?
+90,Mansarovar Park,?,?
+91,Rithala,?,?
+92,Saidulajab,?,?
+93,Nawada,?,?
+94,Shahdara,?,?
+95,Tilak Nagar,?,?
+96,DLF Phase 3,?,?
+97,Laxmi Nagar,?,?
+98,Huda City Centre,?,?
+99,Mehrauli,?,?
+100,Botanical Garden,?,?
+101,Ramesh Nagar,?,?
+102,Dwarka Sector 21,?,?
+103,Noida Film City,?,?
+104,India Gate,?,?
+105,Barakhamba Road,?,?
+106,Gurgaon Sector 56,?,?
+107,Ashram,?,?
+108,Gurgaon Sector 29,?,?
+109,Jor Bagh,?,?
+110,Saket,?,?
+111,Basai Dhankot,?,?
+112,Udyog Vihar Phase 4,?,?
+113,Raj Nagar Extension,?,?
+114,Lok Kalyan Marg,?,?
+115,Greater Kailash,?,?
+116,Sarojini Nagar,?,?
+117,GTB Nagar,?,?
+118,Vatika Chowk,?,?
+119,Golf Course Road,?,?
+120,Ghaziabad,?,?
+121,Narsinghpur,?,?
+122,Panchsheel Park,?,?
+123,Badarpur,?,?
+124,Pataudi Chowk,?,?
+125,Gwal Pahari,?,?
+126,Tagore Garden,?,?
+127,Samaypur Badli,?,?
+128,Hero Honda Chowk,?,?
+129,Delhi Gate,?,?
+130,Chanakyapuri,?,?
+131,RK Puram,?,?
+132,Shivaji Park,?,?
+133,Keshav Puram,?,?
+134,Saket A Block,?,?
+135,ITO,?,?
+136,Indraprastha,?,?
+137,Janakpuri,?,?
+138,Ashok Park Main,?,?
+139,Connaught Place,?,?
+140,Jahangirpuri,?,?
+141,Govindpuri,?,?
+142,Welcome,?,?
+143,Preet Vihar,?,?
+144,Indirapuram,?,?
+145,Kalkaji,?,?
+146,Sonipat,?,?
+147,Netaji Subhash Place,?,?
+148,South Extension,?,?
+149,Kadarpur,?,?
+150,Arjangarh,?,?
+151,Chirag Delhi,?,?
+152,Manesar,?,?
+153,Green Park,?,?
+154,Badshahpur,?,?
+155,Ashok Vihar,?,?
+156,Nehru Place,?,?
+157,Chandni Chowk,?,?
+158,Gurgaon Railway Station,?,?
+159,Inderlok,?,?
+160,Rajouri Garden,?,?
+161,Bhiwadi,?,?
+162,Subhash Chowk,?,?
+163,Rohini East,?,?
+164,Peeragarhi,?,?
+165,Vasant Kunj,?,?
+166,Pulbangash,?,?
+167,Kaushambi,?,?
+168,Bhikaji Cama Place,?,?
+169,Kirti Nagar,?,?
+170,Paharganj,?,?
+171,Subhash Nagar,?,?
+172,Old Gurgaon,?,?
+173,Udyog Vihar,?,?
+174,Hauz Khas,?,?
+175,Paschim Vihar,?,?
+176,Ambience Mall,?,?
+177,Lal Quila,?,?
